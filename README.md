@@ -1,5 +1,3 @@
-# Work
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,11 +11,19 @@
             margin: 20px;
         }
 
-        h1 {
+        header {
+            text-align: center;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h1, h2 {
             color: #333;
         }
 
-        p {
+        p, li {
             line-height: 1.5;
             color: #555;
         }
@@ -25,10 +31,6 @@
         ul {
             list-style-type: none;
             padding: 0;
-        }
-
-        li {
-            margin-bottom: 10px;
         }
 
         footer {
@@ -70,9 +72,9 @@
         <h2>Contact Information</h2>
         <p>Connect with us:</p>
         <ul>
-            <li>Phone: 9659228281</li>
-            <li>Instagram: [Instagram Handle]</li>
-            <li>WhatsApp: [WhatsApp Number]</li>
+            <li>Phone: <a href="tel:+919649228281">+91 9659228281</a></li>
+            <li>Instagram: <a href="https://www.instagram.com/your_instagram_handle/">your_instagram_handle</a></li>
+            <li>WhatsApp: <a href="https://wa.me/919649228281">+91 9659228281</a></li>
             <li>Address: Rps Colony Rawatbhata</li>
         </ul>
     </section>
@@ -84,3 +86,4 @@
 </body>
 
 </html>
+
