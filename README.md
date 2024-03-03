@@ -9,6 +9,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            background-color: #f4f4f4; /* Change this color as desired */
         }
 
         header {
@@ -86,4 +87,5 @@
 </body>
 
 </html>
+
 
