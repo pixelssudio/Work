@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -74,8 +73,8 @@
         <p>Connect with us:</p>
         <ul>
             <li>Phone: <a href="tel:+919649228281">+91 9659228281</a></li>
-            <li>Instagram: <a href="https://www.instagram.com/your_instagram_handle/">your_instagram_handle</a></li>
-            <li>WhatsApp: <a href="https://wa.me/919649228281">+91 9659228281</a></li>
+            <li>Instagram: <a href="https://www.instagram.com/[your_instagram_handle](https://www.instagram.com/pixels__studio__)/">your_instagram_handle</a></li>
+            <li>WhatsApp: <a href="https://wa.me/919649228281">+91 9649228281</a></li>
             <li>Address: Rps Colony Rawatbhata</li>
         </ul>
     </section>
@@ -84,8 +83,5 @@
         &copy; 2024 Pankaj Kalosiya Photography & Data Recovery
     </footer>
 
-</body>
-
-</html>
 
 
