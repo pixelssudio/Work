@@ -72,7 +72,7 @@
         <h2>Contact Information</h2>
         <p>Connect with us:</p>
         <ul>
-            <li>Phone: <a href="tel:+919649228281">+91 9659228281</a></li>
+            <li>Phone: <a href="tel:+919649228281">+91 9649228281</a></li>
             <li>Instagram: <a href="https://www.instagram.com/https://www.instagram.com/pixels__studio__/">www.instagram.com/pixels__studio__</a></li>
             <li>WhatsApp: <a href="https://wa.me/919649228281">+91 9649228281</a></li>
             <li>Address: Rps Colony Rawatbhata</li>
